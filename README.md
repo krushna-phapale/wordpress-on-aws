@@ -22,7 +22,7 @@ The project involves deploying a WordPress website on an AWS EC2 instance using 
 - **Software**: MobaXterm
 
 ## To install MobaXterm software refer below GitHub repository :-
-(https://github.com/krushna-phapale/AWS-MobaXterm-PuTTY-Setup.git)
+[Click here for MobaXterm Intallation](https://github.com/krushna-phapale/AWS-MobaXterm-PuTTY-Setup.git)
 
 
 
