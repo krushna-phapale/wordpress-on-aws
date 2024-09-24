@@ -25,9 +25,11 @@ The project involves deploying a WordPress website on an AWS EC2 instance using 
 (https://github.com/krushna-phapale/AWS-MobaXterm-PuTTY-Setup.git)
 
 
+
 ## Steps
 
 ### Step 1: Launch EC2 Instance
+[Follow this link for Instance launching and connecting using MobaXterm](https://github.com/krushna-phapale/Launching-EC2-Instance.git)
 
 1. Navigate to the [EC2 Dashboard](https://console.aws.amazon.com/ec2/) and click on **Launch Instance**.
 2. Select **Ubuntu** as the AMI.
