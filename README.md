@@ -87,7 +87,7 @@ The purpose of the project is to deploy a WordPress website on an AWS EC2 instan
    FLUSH PRIVILEGES;
 EXIT;
 ```
-**Note :- In place of user and password enter your username and password**
+**Note :- In place of password enter your password**
 
 ### Step 5: Download and Set Up WordPress
 
